@@ -1,0 +1,30 @@
+[
+  {
+    "name":"onyalo",
+    "id":34,
+    "location":"Siaya",
+    "Occupation":"Employed",
+    "MaritalStatus":"Single"
+  },
+  {
+    "name":"Smith",
+    "id":39,
+    "location":"Migori",
+    "Occupation":"Employed",
+    "MaritalStatus":"Married"
+  },
+  {
+    "name":"Annah",
+    "id":38,
+    "location":"Siaya",
+    "Occupation":"Not-Employed",
+    "MaritalStatus":"SingleMOther"
+  },
+  {
+    "name":"onyalo",
+    "id":32,
+    "location":"Homabay",
+    "Occupation":"Employed",
+    "MaritalStatus":"Single"
+  }
+]
